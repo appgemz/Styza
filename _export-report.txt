@@ -1,12 +1,12 @@
 Styza image export — data13
-Generated 2026-09-13T12:25:44.116Z
+Generated 2026-09-13T15:49:48.836Z
 
 Each category and subcategory folder may carry its own before.jpg and
 after.jpg alongside the template images.
 
 Category slots:     20 of 22
 Subcategory slots:  0 of 136
-Templates:          648 of 652
+Templates:          658 of 662
 Missing an image:   142
 
 Not yet uploaded (142):
@@ -39,6 +39,10 @@ Not yet uploaded (142):
   styza/womens/omantic-dark-femininity/after.jpg
   styza/womens/modern-power-dressing/before.jpg
   styza/womens/modern-power-dressing/after.jpg
+  styza/mens/business/before.jpg
+  styza/mens/business/after.jpg
+  styza/mens/casual/before.jpg
+  styza/mens/casual/after.jpg
   styza/mens/y2k-streetwear-men/before.jpg
   styza/mens/y2k-streetwear-men/after.jpg
   styza/mens/old-money-classic-men/before.jpg
@@ -49,10 +53,6 @@ Not yet uploaded (142):
   styza/mens/gorpcore-outdoor/after.jpg
   styza/mens/korean-street-style/before.jpg
   styza/mens/korean-street-style/after.jpg
-  styza/mens/business/before.jpg
-  styza/mens/business/after.jpg
-  styza/mens/casual/before.jpg
-  styza/mens/casual/after.jpg
   styza/couples/vintage-cinema-romance/before.jpg
   styza/couples/vintage-cinema-romance/after.jpg
   styza/couples/neo-futurist-romance/before.jpg
