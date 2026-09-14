@@ -1,5 +1,5 @@
 Styza image export — data13
-Generated 2026-09-14T12:38:44.534Z
+Generated 2026-09-14T14:19:34.262Z
 
 Each category and subcategory folder may carry its own before.jpg and
 after.jpg alongside the template images.
@@ -19,6 +19,8 @@ Not yet uploaded (146):
   styza/womens/business/after.jpg
   styza/womens/street/before.jpg
   styza/womens/street/after.jpg
+  styza/womens/swim-wear/before.jpg
+  styza/womens/swim-wear/after.jpg
   styza/womens/quiet-luxury/before.jpg
   styza/womens/quiet-luxury/after.jpg
   styza/womens/street-athleisure/before.jpg
@@ -39,8 +41,6 @@ Not yet uploaded (146):
   styza/womens/omantic-dark-femininity/after.jpg
   styza/womens/modern-power-dressing/before.jpg
   styza/womens/modern-power-dressing/after.jpg
-  styza/womens/swim-wear/before.jpg
-  styza/womens/swim-wear/after.jpg
   styza/mens/business/before.jpg
   styza/mens/business/after.jpg
   styza/mens/casual/before.jpg
