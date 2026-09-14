@@ -1,15 +1,15 @@
 Styza image export — data13
-Generated 2026-09-13T15:49:48.836Z
+Generated 2026-09-14T12:38:44.534Z
 
 Each category and subcategory folder may carry its own before.jpg and
 after.jpg alongside the template images.
 
 Category slots:     20 of 22
-Subcategory slots:  0 of 136
-Templates:          658 of 662
-Missing an image:   142
+Subcategory slots:  0 of 140
+Templates:          678 of 682
+Missing an image:   146
 
-Not yet uploaded (142):
+Not yet uploaded (146):
 
   styza/banners/before.jpg
   styza/banners/after.jpg
@@ -39,20 +39,24 @@ Not yet uploaded (142):
   styza/womens/omantic-dark-femininity/after.jpg
   styza/womens/modern-power-dressing/before.jpg
   styza/womens/modern-power-dressing/after.jpg
+  styza/womens/swim-wear/before.jpg
+  styza/womens/swim-wear/after.jpg
   styza/mens/business/before.jpg
   styza/mens/business/after.jpg
   styza/mens/casual/before.jpg
   styza/mens/casual/after.jpg
   styza/mens/y2k-streetwear-men/before.jpg
   styza/mens/y2k-streetwear-men/after.jpg
-  styza/mens/old-money-classic-men/before.jpg
-  styza/mens/old-money-classic-men/after.jpg
+  styza/mens/old-money/before.jpg
+  styza/mens/old-money/after.jpg
   styza/mens/tech-wear-street/before.jpg
   styza/mens/tech-wear-street/after.jpg
   styza/mens/gorpcore-outdoor/before.jpg
   styza/mens/gorpcore-outdoor/after.jpg
   styza/mens/korean-street-style/before.jpg
   styza/mens/korean-street-style/after.jpg
+  styza/mens/sporty/before.jpg
+  styza/mens/sporty/after.jpg
   styza/couples/vintage-cinema-romance/before.jpg
   styza/couples/vintage-cinema-romance/after.jpg
   styza/couples/neo-futurist-romance/before.jpg
