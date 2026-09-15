@@ -1,15 +1,15 @@
 Styza image export — data13
-Generated 2026-09-15T12:01:40.182Z
+Generated 2026-09-15T20:52:46.568Z
 
 Each category and subcategory folder may carry its own before.jpg and
 after.jpg alongside the template images.
 
 Category slots:     20 of 22
-Subcategory slots:  0 of 140
-Templates:          678 of 682
-Missing an image:   146
+Subcategory slots:  0 of 144
+Templates:          699 of 703
+Missing an image:   150
 
-Not yet uploaded (146):
+Not yet uploaded (150):
 
   styza/banners/before.jpg
   styza/banners/after.jpg
@@ -19,6 +19,10 @@ Not yet uploaded (146):
   styza/womens/business/after.jpg
   styza/womens/street/before.jpg
   styza/womens/street/after.jpg
+  styza/womens/saree-lover/before.jpg
+  styza/womens/saree-lover/after.jpg
+  styza/womens/party-wear/before.jpg
+  styza/womens/party-wear/after.jpg
   styza/womens/swim-wear/before.jpg
   styza/womens/swim-wear/after.jpg
   styza/womens/quiet-luxury/before.jpg
