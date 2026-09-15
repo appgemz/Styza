@@ -1,5 +1,5 @@
 Styza image export — data13
-Generated 2026-09-14T14:19:34.262Z
+Generated 2026-09-15T12:01:40.182Z
 
 Each category and subcategory folder may carry its own before.jpg and
 after.jpg alongside the template images.
@@ -45,6 +45,8 @@ Not yet uploaded (146):
   styza/mens/business/after.jpg
   styza/mens/casual/before.jpg
   styza/mens/casual/after.jpg
+  styza/mens/sporty/before.jpg
+  styza/mens/sporty/after.jpg
   styza/mens/y2k-streetwear-men/before.jpg
   styza/mens/y2k-streetwear-men/after.jpg
   styza/mens/old-money/before.jpg
@@ -55,8 +57,6 @@ Not yet uploaded (146):
   styza/mens/gorpcore-outdoor/after.jpg
   styza/mens/korean-street-style/before.jpg
   styza/mens/korean-street-style/after.jpg
-  styza/mens/sporty/before.jpg
-  styza/mens/sporty/after.jpg
   styza/couples/vintage-cinema-romance/before.jpg
   styza/couples/vintage-cinema-romance/after.jpg
   styza/couples/neo-futurist-romance/before.jpg
