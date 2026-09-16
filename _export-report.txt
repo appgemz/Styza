@@ -1,12 +1,12 @@
 Styza image export — data13
-Generated 2026-09-15T20:52:46.568Z
+Generated 2026-09-16T18:01:21.536Z
 
 Each category and subcategory folder may carry its own before.jpg and
 after.jpg alongside the template images.
 
 Category slots:     20 of 22
 Subcategory slots:  0 of 144
-Templates:          699 of 703
+Templates:          757 of 761
 Missing an image:   150
 
 Not yet uploaded (150):
