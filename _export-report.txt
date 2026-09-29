@@ -1,5 +1,5 @@
 Styza image export — data13
-Generated 2026-09-29T16:45:05.168Z
+Generated 2026-09-29T17:16:18.276Z
 
 Each category and subcategory folder may carry its own before.jpg and
 after.jpg alongside the template images.
