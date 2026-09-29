@@ -1,15 +1,15 @@
 Styza image export — data13
-Generated 2026-09-29T17:16:18.276Z
+Generated 2026-09-29T18:07:06.125Z
 
 Each category and subcategory folder may carry its own before.jpg and
 after.jpg alongside the template images.
 
 Category slots:     20 of 24
-Subcategory slots:  0 of 148
-Templates:          908 of 912
-Missing an image:   156
+Subcategory slots:  0 of 154
+Templates:          926 of 930
+Missing an image:   162
 
-Not yet uploaded (156):
+Not yet uploaded (162):
 
   styza/banners/before.jpg
   styza/banners/after.jpg
@@ -163,6 +163,12 @@ Not yet uploaded (156):
   styza/photo-editor/nails/after.jpg
   styza/photo-editor/glasses/before.jpg
   styza/photo-editor/glasses/after.jpg
+  styza/photo-editor/watchs/before.jpg
+  styza/photo-editor/watchs/after.jpg
+  styza/photo-editor/jewellery/before.jpg
+  styza/photo-editor/jewellery/after.jpg
+  styza/photo-editor/shoes/before.jpg
+  styza/photo-editor/shoes/after.jpg
   styza/ethnic-wear/saudi-arabia/saudi-wedding-ceremonial-dress.jpg
   styza/ethnic-wear/saudi-arabia/najdi-traditional-dress.jpg
   styza/animal-lovers/festive-pet-portraits/costume-party-portrait.jpg
